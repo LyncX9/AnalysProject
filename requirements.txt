@@ -1,0 +1,8 @@
+streamlit
+nbformat
+scikit-learn
+joblib
+Sastrawi
+gradio
+matplotlib
+pandas
