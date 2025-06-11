@@ -79,7 +79,7 @@ st.markdown("<h1 style='color:#00f7ff;'>📘 Visualisasi Analisis & Sentimen Kom
 
 st.subheader("📊 Visualisasi & Analisis Sebelumnya")
 
-outputs = load_notebook_outputs("Anlyss2.ipynb")
+outputs = load_notebook_outputs("Anlyss4.ipynb")
 if outputs:
     display_outputs(outputs)
 else:
